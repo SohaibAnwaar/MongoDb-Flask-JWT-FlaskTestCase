@@ -179,5 +179,3 @@ def update_template():
     else:
         return jsonify({'msg': 'Access Token Expired'}), 404
 
-if __name__ == '__main__':
-	app.run(debug=True)
