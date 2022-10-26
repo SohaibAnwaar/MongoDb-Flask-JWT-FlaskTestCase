@@ -466,3 +466,4 @@ Now go to the terminal and write, ```pytest```
 # Blogs
 
 https://medium.com/@sohaibanwaar36/flask-with-mongodb-and-jwt-authentication-5d9ba2c3ef7e
+https://tealfeed.com/flask-mongodb-jwt-authentication-ptgcc
