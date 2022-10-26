@@ -461,3 +461,8 @@ Now go to the terminal and write, ```pytest```
 * linkedin       : [Have Some Professional Talk here](https://www.linkedin.com/in/sohaib-anwaar-4b7ba1187/)
 * Stack Overflow : [Get my help Here](https://stackoverflow.com/users/7959545/sohaib-anwaar)
 * Kaggle         : [View my master-pieces here](https://www.kaggle.com/sohaibanwaar1203)
+
+
+# Blogs
+
+https://medium.com/@sohaibanwaar36/flask-with-mongodb-and-jwt-authentication-5d9ba2c3ef7e
